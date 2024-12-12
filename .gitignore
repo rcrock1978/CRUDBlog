@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/CRUDBlog/.vs
+/CRUDBlog/Blog.Application/obj
+/CRUDBlog/Blog.Domain/obj
+/CRUDBlog/Blog.Application/bin/Debug/net8.0
+/CRUDBlog/Blog.Domain/bin/Debug/net8.0
